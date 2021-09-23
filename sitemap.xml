@@ -3,15 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>hhttps://bugmaker37.github.io/post/test/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>hhttps://bugmaker37.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>hhttps://bugmaker37.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>hhttps://bugmaker37.github.io/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>hhttps://bugmaker37.github.io/</loc>
   </url>
   
 </urlset>
